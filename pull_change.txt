@@ -1,0 +1,1 @@
+This is file used for pull command to reflect changes to local repository.
